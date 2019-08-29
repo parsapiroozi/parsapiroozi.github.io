@@ -26,7 +26,7 @@ function App() {
           target='_blank'
           rel='noopener noreferrer'
         >
-          Learn Her 🌹
+          🌹🌹🌹🌹 Learn Her 🌹🌹🌹🌹
         </a>
       </header>
     </div>
